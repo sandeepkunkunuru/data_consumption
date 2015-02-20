@@ -1,0 +1,31 @@
+java.class.path: /home/sandeepkunkunuru/tools/idea/bin/../lib/bootstrap.jar:/home/sandeepkunkunuru/tools/idea/bin/../lib/extensions.jar:/home/sandeepkunkunuru/tools/idea/bin/../lib/util.jar:/home/sandeepkunkunuru/tools/idea/bin/../lib/jdom.jar:/home/sandeepkunkunuru/tools/idea/bin/../lib/log4j.jar:/home/sandeepkunkunuru/tools/idea/bin/../lib/trove4j.jar:/home/sandeepkunkunuru/tools/idea/bin/../lib/jna.jar:/usr/lib/jvm/java-7-openjdk-amd64/lib/tools.jar
+java.ext.dirs: /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext
+java.library.path: /home/sandeepkunkunuru/tools/idea/bin::/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+path.separator: :
+[  31961]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  SQL) or icon jar:file:/home/sandeepkunkunuru/.IntelliJIdea14/config/plugins/ks-sql/lib/ks-sql.jar!/icons/sql_console.gif 
+[  32467]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  simpleUML) or icon jar:file:/home/sandeepkunkunuru/.IntelliJIdea14/config/plugins/simpleUML_4493.jar!/net/trustx/simpleuml/icons/simpleUMLsmall.png 
+[  34384]   WARN - .ExternalResourceManagerExImpl - Cannot find standard resource. filename:/META-INF/tapestry_5_0_0.xsd class=class com.intellij.javaee.ResourceRegistrarImpl, classLoader:null 
+[ 175687]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  SQL) or icon jar:file:/home/sandeepkunkunuru/.IntelliJIdea14/config/plugins/ks-sql/lib/ks-sql.jar!/icons/sql_console.gif 
+[ 175923]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  simpleUML) or icon jar:file:/home/sandeepkunkunuru/.IntelliJIdea14/config/plugins/simpleUML_4493.jar!/net/trustx/simpleuml/icons/simpleUMLsmall.png 
+[ 235697]   WARN - ions.generators.GeneratorsUtil - Get available generators script executes with errors:
+LoadError: no such file to load -- bundler/setup
+  require at org/jruby/RubyKernel.java:1071
+  require at /home/sandeepkunkunuru/.rvm/rubies/jruby-1.7.19/lib/ruby/shared/rubygems/core_ext/kernel_require.rb:54
+   (root) at /home/sandeepkunkunuru/projects/data_consumption/config/boot.rb:3
+  require at org/jruby/RubyKernel.java:1071
+   (root) at /home/sandeepkunkunuru/.rvm/rubies/jruby-1.7.19/lib/ruby/shared/rubygems/core_ext/kernel_require.rb:1
+  require at /home/sandeepkunkunuru/.rvm/rubies/jruby-1.7.19/lib/ruby/shared/rubygems/core_ext/kernel_require.rb:54
+   (root) at /home/sandeepkunkunuru/projects/data_consumption/bin/rails:3
+ 
+[ 278812]   WARN - ugins.ruby.tasks.rake.RakeUtil - LoadError: no such file to load -- bundler/setup
+  require at org/jruby/RubyKernel.java:1071
+  require at /home/sandeepkunkunuru/.rvm/rubies/jruby-1.7.19/lib/ruby/shared/rubygems/core_ext/kernel_require.rb:54
+   (root) at /home/sandeepkunkunuru/projects/data_consumption/config/boot.rb:3
+  require at org/jruby/RubyKernel.java:1071
+   (root) at /home/sandeepkunkunuru/.rvm/rubies/jruby-1.7.19/lib/ruby/shared/rubygems/core_ext/kernel_require.rb:1
+  require at /home/sandeepkunkunuru/.rvm/rubies/jruby-1.7.19/lib/ruby/shared/rubygems/core_ext/kernel_require.rb:54
+   (root) at /home/sandeepkunkunuru/projects/data_consumption/bin/rake:2: Get available rake tasks 
+[ 278813]   WARN - ugins.ruby.tasks.rake.RakeUtil - NOTE: ActiveRecord 4.2 is not (yet) fully supported by AR-JDBC, please help us finish 4.2 support - check http://bit.ly/jruby-42 for starters: Get available rake tasks 
+[ 295141]   WARN - ions.generators.GeneratorsUtil - Get available generators script executes with errors:
+NOTE: ActiveRecord 4.2 is not (yet) fully supported by AR-JDBC, please help us finish 4.2 support - check http://bit.ly/jruby-42 for starters
+ 
